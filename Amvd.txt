@@ -1,0 +1,3 @@
+Once upon a time this was an empty file called A.txt.
+It was mv’ed into Amvd.txt.
+Then content was added to it.
