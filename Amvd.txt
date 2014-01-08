@@ -3,3 +3,4 @@ It was mv’ed into Amvd.txt.
 Then content was added to it.
 Trying integration with FogBugz.
 Again.
+Again, FobBugz sees something pushed but checkin link not shown in case. 
